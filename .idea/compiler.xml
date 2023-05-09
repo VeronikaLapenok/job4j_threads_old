@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="job4j_threads" />
+        <module name="job4j_design" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="job4j_threads" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
