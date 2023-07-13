@@ -4,6 +4,7 @@
 Author: Veranika Lapianok</br>
 Email: veronika.lapenok.yr@gmail.com</br>
 
+
 ### Course program
 1. Git
 2. Spring Core
@@ -13,5 +14,6 @@ Email: veronika.lapenok.yr@gmail.com</br>
 6. Spring boot
 7. Microservices
 
+Training includes solving tasks, writing projects, passing exams
 
 [Up](#anchor)
