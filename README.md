@@ -16,4 +16,5 @@ Email: veronika.lapenok.yr@gmail.com</br>
 
 Training includes solving tasks, writing projects, passing exams
 
+
 [Up](#anchor)
