@@ -1,7 +1,8 @@
 <a id="anchor"></a>
 # job4j Middle level
 
-Author: Veranika Lapianok
+Author: Veranika Lapianok</br>
+Email: veronika.lapenok.yr@gmail.com</br>
 
 ### Course program
 1. Git
