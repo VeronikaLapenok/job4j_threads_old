@@ -1,6 +1,8 @@
 <a id="anchor"></a>
 # job4j Middle level
 
+Author: Veranika Lapianok
+
 ### Course program
 1. Git
 2. Spring Core
