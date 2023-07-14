@@ -10,7 +10,7 @@ public final class SaveFile {
     }
 
     public void saveContent(String content) {
-        try (BufferedOutputStream out = new BufferedOutputStream(new FileOutputStream(file))){
+        try (BufferedOutputStream out = new BufferedOutputStream(new FileOutputStream(file))) {
             for (int i = 0; i < content.length(); i++) {
                 out.write(content.charAt(i));
             }
